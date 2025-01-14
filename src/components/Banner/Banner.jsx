@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../../assets/img/banner-book-img.jpg'
+import img from '../../../public/assets/img/banner-book-img.jpg'
 import { NavLink } from 'react-router-dom';
 
 const Banner = () => {
