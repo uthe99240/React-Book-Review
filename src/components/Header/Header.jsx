@@ -37,7 +37,7 @@ const Header = () => {
                             {links}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl"><NavLink to="/">Tappware Solutions Limited</NavLink></a>
+                    <NavLink className="btn btn-ghost text-xl" to="/">Tappware Solutions Limited</NavLink>
                     
                     {/* <a className="btn btn-ghost text-xl">Bichitra Books And Stationery</a> */}
                 </div>
